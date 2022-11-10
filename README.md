@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  👋 Hi, I’m Wilson (like the volleyball)
+  👋 Hello, I’m Wilson! (like the volleyball)
 </h1>
 <h2>
   About Me:
