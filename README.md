@@ -10,7 +10,7 @@
 
 -  I’m interested in solving puzzles with Excel/SQL/Python. I am a strong believer in hands-on learning (Thanks, Google!)
 -  I’m currently learning how to build my intro page on Github. It'll get better, I promise!
--  In my free time, I like to get outdoors and play :basketball:.
+-  In my free time, I like to get together with friends and play some :basketball:.
 
 <!---
 wilsonwkwong88/wilsonwkwong88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
