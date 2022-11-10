@@ -2,9 +2,14 @@
   <img src="https://media.giphy.com/media/3KVcFEmdDl9NYaFTtx/giphy.gif">
 </div>
 
-- 👋 Hi, I’m Wilson (like the volleyball)
-- 👀 I’m interested in solving puzzles with Excel/SQL/Python. Also down to play some basketball
-- 🌱 I’m currently learning how to build my intro page on Github. It'll get better, I promise!
+<h1>
+  👋 Hi, I’m Wilson (like the volleyball)
+</h1>
+<h2>
+  About Me:
+</h2>
+I’m interested in solving puzzles with Excel/SQL/Python. I am a strong believer in hands-on learning (Thanks, Google!)<br>
+<br>I’m currently learning how to build my intro page on Github. It'll get better, I promise!
 
 
 <!---
