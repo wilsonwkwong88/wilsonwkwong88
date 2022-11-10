@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/3KVcFEmdDl9NYaFTtx/giphy.gif">
 </div>
 
-<h1 align="center">
-  👋 Hello, I’m Wilson! (like the volleyball)
-</h1>
+---
+
+
+# 👋 Hello, I’m Wilson! (like the volleyball)
 
 ### About Me:
 
