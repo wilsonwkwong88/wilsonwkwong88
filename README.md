@@ -9,7 +9,7 @@
 
 ### About Me:
 
--  I’m interested in solving puzzles with Excel/SQL/Python. I am a strong believer in hands-on learning (Thanks, Google!)
+-  I’m interested in solving puzzles with Excel/SQL/Python. I am a strong believer in hands-on learning and love to figure things out on my own (Thanks, Google!)
 -  I’m currently learning how to build my intro page on Github. It'll get better, I promise!
 -  In my free time, I like to get together with friends and play some :basketball:.
 
